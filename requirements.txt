@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.23.2
+pydantic==2.7.4
+python-multipart==0.0.9
+jinja2==3.1.4
+bibtexparser==1.4.2
+requests==2.32.3
+citeproc-py==0.6.0
+citeproc-py-styles==0.1.3
